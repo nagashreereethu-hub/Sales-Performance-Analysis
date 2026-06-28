@@ -1,4 +1,21 @@
--- View Complete Dataset
+
+Project : Sales Performance Analysis
+Author  : Nagashree M
+Tools   : SQL | Excel | Power BI
+
+Business Questions Solved
+
+1. What is the total sales?
+2. What is the total profit?
+3. Which region generates maximum sales?
+4. Which category is most profitable?
+5. Who are the top customers?
+6. Which products generate losses?
+7. Monthly sales trend
+8. Monthly profit trend
+9. Customer segmentation
+10. Regional performance analysis
+
 SELECT * FROM Superstore;
 
 -- Total Sales
