@@ -3,19 +3,19 @@ Project : Sales Performance Analysis
 Author  : Nagashree M
 Tools   : SQL | Excel | Power BI
 
-Business Questions Solved
+Business Questions Addressed
 
-1. What is the total sales?
-2. What is the total profit?
-3. Which region generates maximum sales?
-4. Which category is most profitable?
-5. Who are the top customers?
-6. Which products generate losses?
-7. Monthly sales trend
-8. Monthly profit trend
-9. Customer segmentation
-10. Regional performance analysis
-
+1. What is the overall sales performance?
+2. Which regions contribute the highest revenue?
+3. Which product categories generate maximum profit?
+4. Which products incur losses?
+5. Who are the highest-value customers?
+6. How do monthly sales and profits vary over time?
+7. Which customer segments contribute most to revenue?
+8. How does regional performance compare?
+9. Which states generate the highest sales?
+10. What business opportunities can be identified from sales data?
+  
 SELECT * FROM Superstore;
 
 -- Total Sales
